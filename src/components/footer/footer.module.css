@@ -1,0 +1,9 @@
+.date {
+    font-family: 'Inter', sans-serif;
+    font-size: 14px;
+}
+.footer {
+    box-sizing: border-box;
+    margin-top: 20px;
+    padding: 20px 10px;
+}
